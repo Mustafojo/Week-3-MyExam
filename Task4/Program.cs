@@ -1,0 +1,2 @@
+﻿// Abstract class yak classi hayoli ast.Masalan mo animal gufta yagon chizi fiziki da nazarmon namebiyoya.
+// Metodi abstracti tana nadorad va childosha majbur mekna ki az vay methodosha override knan.

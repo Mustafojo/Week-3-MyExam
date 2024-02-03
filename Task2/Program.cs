@@ -1,0 +1,1 @@
+﻿//Inheritance yak kismi OOP ast.Robitai 2 classa Inheritance menomand. Inheritance - yak class kodoi publicsha az diga classa inherit mekna  .Inheritance ba 2 kism judo meshavad 1.Derived Class(Child) 2.Bace Class(parent) 

@@ -1,0 +1,1 @@
+﻿// Polymarphism kobiliyati yak chand shakl giriftanro polymarphysm megan masalan: Padar dar hona padar ast ammo dar joi kor korgar ast. Virtual method - ba child classo ijozat meta ki methodosha override knan.
